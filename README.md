@@ -1,5 +1,5 @@
 # Using Data Science to Predict Fires in the Algerian Forest from Weather Characteristics
-Introduction
+## Introduction  
 A forest fire is unplanned and uncontrollable and can occur by lightning or human carelessness in forests, grasslands or shrubbery (Government of Canada, 2020). The vast majority of forest fires are human-caused, however dry climate, hot temperatures, lightning, and volcanic eruption can also lead to their occurrence (National Park Service, 2018). The past decade of climate change has only exacerbated the amount of forest fires, leading to more frequent and extreme occurences.
 
 Wildfire agencies use many variables to indicate an imminent wildfire and the evolution of machine learning has provided us the ability to predict future events by analyzing these variables. Thus, we pose the predictive question: do certain variables allow us to determine if a forest fire has or will occur and if so, how accurate will they be?
