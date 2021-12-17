@@ -6,6 +6,11 @@ Wildfire agencies use many variables to indicate an imminent wildfire and the ev
 
 To support our hypothesis, we used a dataset on Algerian Forest Fires from UCI (Faroudja & Izeboudjen, 2020). The dataset contains a culmination of forest fire observations and data in two regions of Algeria: the Bejaia region and the Sidi Bel-Abbes region. The timeline of this dataset is from June 2012 to September 2012. In this project, we focused on whether certain weather characteristics could predict forest fires in these regions using the K-NN Classification algorithm and later, we evaluated the accuracy of the model.
 
+## Repository Contents:
+In this repository, you will find:  
+- Forest_Fire_Project.ipynb: For the full project with narration.  
+- .ipynb_checkpoints: For previous versions of Forest_Fire_Project.ipynb.
+
 
 ## References
 Government of Canada. (2020). Forest fires. Retrieved from https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/wildland-fires-insects-disturban/forest-fires/13143.
