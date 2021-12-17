@@ -11,7 +11,7 @@ In this repository, you will find:
 - Forest_Fire_Project.ipynb: For the full project with narration.  
 - .ipynb_checkpoints: For previous versions of Forest_Fire_Project.ipynb.
 
-The dataset used can be found [here] (https://archive.ics.uci.edu/ml/machine-learning-databases/00547/Algerian_forest_fires_dataset_UPDATE.csv) from the UCI Machine Learning Repository.
+The dataset used can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00547/Algerian_forest_fires_dataset_UPDATE.csv) from the UCI Machine Learning Repository.
 
 ## References
 Government of Canada. (2020). Forest fires. Retrieved from https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/wildland-fires-insects-disturban/forest-fires/13143.
